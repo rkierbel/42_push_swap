@@ -134,4 +134,4 @@ MAIN.C
 
 
 Random number sets generation to test the programs :
-ARG=`ruby -e "puts (1..50).to_a.shuffle.join(' ')"`; ./push_swap $ARG | ./checker $ARG
+ARG=`ruby -e "puts (1..50).to_a.shuffle.join(' ')"`; ./push_swap $ARG | ./checker $ARG (dont forget the "`" before ruby and before the semicolon)
