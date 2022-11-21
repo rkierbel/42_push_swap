@@ -1,8 +1,8 @@
 # 42_push_swap
-Implementing an algorithm sorting integers the fastest way possible using two stacks
+Implementing an algorithm sorting integers the fastest way possible using two stacks.
 
-Stack A is filled with a random number of random integers
-Stack B is empty
+Stack A is filled with a random number of random integers.
+Stack B is empty.
 
 Following instructions are available (and have to be implemented):
 
